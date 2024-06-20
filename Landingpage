@@ -1,0 +1,51 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Oasis Infobyte</title>
+ <style>
+ body {
+ margin: 0;
+ padding: 0;
+ font-family: Arial, sans-serif;
+ }
+
+ .header {
+ background-color: #333;
+ color: #fff;
+ padding: 1rem;
+ }
+
+ .header h1 {
+ margin: 0;
+ }
+
+ .main {
+ max-width: 800px;
+ margin: 2rem auto;
+ padding: 2rem;
+ background-color: #f5f5f5;
+ }
+
+ .main h2 {
+ margin: 0 0 1rem;
+ }
+
+ .main p {
+ line-height: 1.5;
+ }
+ </style>
+</head>
+<body>
+ <header class="header">
+ <h1>Welcome to Oasis Infobyte</h1>
+ </header>
+ <main class="main">
+ <h2>We Build IT That Build Your Business</h2>
+ <p>At OASIS Infobyte, Our Mission Is To Empower The Youth, Particularly Students, By Fostering Self-Awareness And Delving Into The Unexplored Realms Of Technology And High-Growth Fields. We Are Dedicated To Bridging The Gap Between Students And Industrial Knowledge, Guiding Them Toward Their Dreams. As An MSME Registered Startup, We Are Open To Connecting With New Individuals On This Journey Of Perpetual Learning And Boundless Joy!</p>
+ <p>AICTE Approved: Our Internship Programs, Endorsed By AICTE, Ensure Top-Notch Quality And Relevance.</p>
+ <p>ISO 9001:2015 Certified: Committed To International Standards, Reflecting Our Unwavering Dedication To Quality.</p>
+ </main>
+</body>
+</html>
